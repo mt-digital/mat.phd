@@ -1,0 +1,96 @@
+/*-- scss:defaults --*/
+
+// --- SCSS Variables for Theme Colors ---
+// Defines the core palette once for easy management
+$color-primary: #666;       // Very dark text/default color
+$color-oak: #B8A388;
+$color-hero: $color-oak; // Bright Red for high-alert/logo
+$color-bg-light: #fff;         // White body background
+$color-bg-panel: #2a2a2a;      // Light gray panel background
+$color-support: $color-bg-panel;       // Hot Pink for support accent
+// $color-bg-nav: #444;           // Dark Gray navigation background
+$border-radius: 6px;
+
+// --- Global Reset & Typography ---
+body {
+    font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    color: $color-primary;
+    background-color: $color-bg-light;
+}
+
+// --- Navigation Bar Customization (Nesting Example) ---
+.navbar {
+    background-color: $color-bg-panel !important;
+    border-bottom: 2.5px solid $color-oak;
+
+    font-family: 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+    .navbar-title {
+        color: $color-hero !important;
+        font-weight: 400;
+        letter-spacing: 0.05em;
+    }
+
+    .navbar-nav {
+        .nav-link {
+            color: $color-oak !important;
+            // background-color: $color-bg-light;
+            /* padding: 5px 10px;
+            border-radius: 4px;
+            margin-left: 5px; */
+        }
+        .nav-link:hover {
+            color: white !important; // White text on hover
+        }
+    }
+}
+
+// --- Headings & Support Accent ---
+h1, h2, h3 {
+    font-weight: 600; 
+    // color: $color-primary;
+    color: $color-primary !important;
+    margin-top: 1.5em;
+    padding-bottom: 0.2em;
+    position: relative; 
+}
+
+// Pink Underline Accent for Support
+h1::before, h2::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 160px; 
+    height: 2.5px; 
+    background-color: $color-support;
+    margin-bottom: -2.5px; 
+}
+
+// --- Panels and Boxes (Inputs/Outputs) ---
+.well, .card, .panel {
+    background-color: $color-bg-panel;
+    border: 1px solid $color-hero; 
+    border-radius: $border-radius; 
+    padding: 15px;
+    box-shadow: 0 2px 5px rgba($color-hero, 0.1); 
+    margin-bottom: 20px;
+}
+
+// --- Code Blocks ---
+code, pre {
+    background-color: $color-bg-light; 
+    border: 1px solid $color-hero; 
+    color: $color-primary; 
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+
+.float-left {
+  float: left;
+  margin-right: 1em;
+  margin-bottom: 0.5em;
+  max-width: 40%;
+}
+

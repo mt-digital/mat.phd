@@ -1,0 +1,537 @@
+/*-- scss:rules --*/
+
+.normal-form-table {
+  td,
+  th {
+    padding: 0.5em 1.25em;
+    text-align: center;           // center-align by default
+    border: none;                 // clear any default table borders
+  }
+
+  /* Row label cells */
+  td:first-child {
+    text-align: right;            // right-align: Low, High, etc.
+    border-right: 1px solid black;
+    padding-right: 1.5em;
+  }
+
+  /* Top-left "Focal" cell stays left-aligned */
+  th:first-child {
+    text-align: left;
+//    border-right: 1px solid black;
+    padding-right: 1.5em;
+  }
+
+  /* Horizontal line above payoff block */
+  tr.top-border td {
+  border-top: 1px solid black;
+  padding-top: 0.75em;
+  }
+  tr.top-border td:first-child {
+    border-top: none;
+  }
+  /* Remove vertical border in header area — second row, first cell */
+  tr:nth-child(2) td:first-child {
+    border-right: none;
+  }
+  
+}
+
+
+/* Tighten top two rows */
+.normal-form-table tr:nth-child(1) th,
+.normal-form-table tr:nth-child(2) td {
+  padding-top: 0.2em;
+  padding-bottom: 0.2em;
+}
+
+/* Tighten bottom three rows */
+.normal-form-table tr:nth-child(4),
+.normal-form-table tr:nth-child(5),
+.normal-form-table tr:nth-child(6) {
+  td {
+    padding-top: 0.25em;
+    padding-bottom: 0.25em;
+  }
+}
+
+
+/* Normalize font sizing and alignment */
+.normal-form-table td,
+.normal-form-table th {
+  font-size: 1rem;
+  vertical-align: middle;
+}
+
+/* Prevent table from stretching out in standalone */
+.normal-form-table {
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+  max-width: 100%;
+}
+
+/* Ensure math is consistent with KaTeX scale in books */
+.normal-form-table td > span.katex {
+  font-size: 1em;
+}
+
+.quarto-float.anchored.table:has(.normal-form-table) {
+  border-top: none !important;
+  border-bottom: none !important;
+  box-shadow: none !important;
+  border: 0 !important;
+}
+
+
+.normal-form-table {
+  margin-top: 1.1em; // creates space between caption and table
+}
+
+/* Remove top border of the header row */
+:where(table) > thead > tr:first-child > th {
+  border-top: none !important;
+}
+
+/* Remove bottom border of the last body row */
+:where(table) > tbody > tr:last-child > td {
+  border-bottom: none !important;
+}
+
+$title-bg: #4f7d9d;
+$title-bg: #4a789b;
+$title-fg: #fdfaf6;
+$title-fg: #e6a8b1;
+$subtitle-fg: #e6a8b1;
+$subtitle-fg: #fdfaf6;
+
+.quarto-title {
+  background-color: $title-bg;
+  padding: 2rem;
+  border-radius: 6px;
+  margin-bottom: 2rem;
+
+  h1.title {
+    color: $title-fg;
+    margin-top: 0;
+    text-align: left;
+    font-size: 2.25rem
+  }
+
+  p.subtitle {
+    color: $subtitle-fg;
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+    text-align: left;
+  }
+}
+
+
+// Color palette
+$heading-color: #4f7d9d;
+$title-fg: #e6a8b1;
+$title-fg: #fdfaf6;
+$title-fg: #fcecef;
+$subtitle-fg: #f8dce1;
+
+// Title block styling
+.quarto-title {
+  background-color: $title-bg;
+  padding: 0.5rem;
+  border-radius: 2px;
+  margin-bottom: 0rem;
+
+  h1.title {
+    color: $title-fg;
+    margin-top: 0;
+    text-align: left;
+  }
+
+  p.subtitle {
+    color: $subtitle-fg;
+    margin-top: 0.5rem;
+    font-size: 1.2rem;
+    text-align: left;
+  }
+}
+.quarto-title-block {
+  background-color: $title-bg;
+}
+// Headings (in body content)
+h1, h2, h3 {
+  color: $heading-color;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 1.8rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  font-size: 1.4rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  h1, h2, h3, h4, h5, h6 {
+    color: #5d94be;
+  }
+}
+
+.title-block-banner .quarto-title-authors,
+.title-block-banner .quarto-title-date {
+  background-color: #4a789b; // same as your banner background
+  color: #f4d3e1;            // soft pink foreground
+  padding: 0.25em 0.75em;
+  margin-top: 0.5em;
+  display: inline-block;
+  border-radius: 0.3em;
+  font-weight: 500;
+}
+
+/* Full title block background and padding */
+.quarto-title-block {
+  background-color: $title-bg;
+  padding: 0.8rem;
+  border-radius: 2px;
+  margin-bottom: 0.5rem;
+  color: #f4d3e1;  // soft pink as default text color
+}
+
+/* Make sure individual elements don’t override this */
+.quarto-title-block .quarto-title-authors,
+.quarto-title-block .quarto-title-date {
+  color: #f4d3e1; // ensure all are pink
+}
+.quarto-title-block .quarto-title-meta {
+  display: flex;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.quarto-title-block .quarto-title-author {
+  flex: 1 1 auto;
+}
+
+.quarto-title-block .quarto-title-date {
+  flex: 0 0 auto;
+  margin-left: auto;
+  text-align: right;
+}
+
+
+
+$inline-code-purple: #a277ff;
+
+:not(pre) > code {
+  color: $inline-code-purple;
+}
+
+.substack-background {
+  background-color: #ED7135;
+  color: #ED7135
+}
+
+/* Change navbar background color */
+.navbar {
+  background-color: #4a789b; /* light blue  */
+}
+
+/* Change navbar link text color */
+.navbar .navbar-nav .nav-link,
+.navbar .navbar-brand {
+  color: #ffffff !important; /* Gold hover */
+}
+
+/* Optional: change hover effect */
+.navbar .navbar-nav .nav-link:hover {
+  color: #f4d3e1 !important;
+}
+
+.navbar .navbar-brand:hover {
+  color: #f4d3e1 !important;
+}
+
+.navbar {
+  padding: 3px 3px;
+}
+
+.quarto-title-breadcrumbs .breadcrumb li a {
+  color: white;
+  font-weight: 300;
+}
+
+.quarto-title-breadcrumbs .breadcrumb li:last-of-type a {
+  color: white;
+  font-weight: 600;
+}
+
+.quarto-title-breadcrumbs .breadcrumb li:last-of-type a:hover {
+  color: #f4d3e1;
+  font-weight: 600;
+}
+
+.breadcrumb-item + .breadcrumb-item::before {
+  color: #ffffff; /* Change to any color you like */
+}
+
+.breadcrumb {
+  background-color: #4a789b;
+}
+
+
+
+.enroll-container {
+  text-align: center;
+  margin-top: 2rem;
+}
+
+
+.enroll-help-btn {
+  color: #ed7135;
+  background-color: white;
+  border: 2px solid #ed7135;
+  border-radius: 50%;
+  width: 2rem;
+  height: 2rem;
+  padding: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1rem;
+  font-weight: bold;
+  line-height: 1;
+  margin-left: 0.5rem;
+  transition: all 0.25s ease;
+}
+
+.enroll-help-btn:hover,
+.enroll-help-btn:focus {
+  background-color: #ed7135;
+  color: white;
+  border-color: #ed7135;
+}
+
+.separator::before {
+  content: "•";
+  margin: 0 0.5rem;
+  color: #888;
+}
+
+.enroll-button {
+  text-decoration: none;
+  display: inline-block;       /* Ensure box sizing like a button */
+  padding: 0.5rem 1rem;
+  border: 2px solid #ed7135;
+  background-color: #ed7135;
+  color: white;
+  border-radius: 4px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  text-align: center;
+}
+
+.enroll-button:hover {
+  background-color: white;
+  color: #ed7135;
+  text-decoration: none;       /* Ensure no underline on hover */
+}
+
+
+/* Put this in styles.css and reference it in your .qmd with format: html: css: styles.css */
+table tbody tr {
+  border-bottom: none !important;
+}
+
+table tbody td {
+  border-bottom: none !important;
+}
+
+table td, table th {
+  vertical-align: middle;   /* options: top | middle | bottom */
+}
+
+table.weekly-topics {
+  width: 100%;
+  border-collapse: collapse;
+
+  th, td {
+    padding: 0.5em;
+    text-align: left;
+  }
+
+  th:nth-child(1), td:nth-child(1) { width: 8%; }
+  th:nth-child(2), td:nth-child(2) { width: 15%; }
+  th:nth-child(3), td:nth-child(3) { width: 20%; }
+  th:nth-child(4), td:nth-child(4) { width: 57%; }
+}
+
+
+
+// Force breadcrumb link color
+nav.quarto-page-breadcrumbs .breadcrumb-item {
+  color: #4a789b !important;
+  background-color: white !important;
+  &:hover {
+    color: #0d2a40 !important;
+  }
+}
+
+nav.quarto-secondary-nav {
+  background: white !important;
+}
+
+#quarto-header > nav.quarto-secondary-nav > div > nav > ol {
+  background-color: white !important;
+}
+
+.float-left {
+  float: left;
+  margin-right: 1em;
+  margin-bottom: 0.5em;
+  max-width: 40%;
+}
+
+.float-right {
+  float: right;
+  margin-left: 1em;
+  margin-bottom: 0.5em;
+  max-width: 40%;
+}
+
+.float-left + p.caption,
+.float-right + p.caption {
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .float-left,
+  .float-right {
+    float: none;
+    display: block;
+    margin: 0 auto 1em auto;
+    max-width: 100%;
+  }
+}
+
+nav.quarto-page-breadcrumbs,
+nav.quarto-title-breadcrumbs {
+  display: none !important;
+}
+
+/* nav.quarto-page-breadcrumbs, nav */
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+/* === Info bar update === */
+.info-bar {
+  width: 100%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  flex-wrap: wrap;
+  /* background: rgba(70, 130, 180, 0.06); /1* light transparent blue *1/ */
+  color: #2b1b1d;                      /* rose-black text */
+  border-radius: 8px;
+  padding: 0.75em 0.5em;
+  margin-top: 1em;
+  list-style: none;
+  text-align: center;
+}
+
+
+.info-bar li {
+  display: inline;
+  margin: 0.25em 0.75em;
+}
+
+.info-bar i {
+  margin-right: 0.4em;
+  transition: color 0.2s ease, transform 0.2s ease;
+}
+
+.info-bar a {
+  color: inherit;
+  text-decoration: none;
+  transition: color 0.2s ease, text-decoration 0.2s ease;
+}
+
+/* Hover: accent color, slight lift, underline text */
+.info-bar a:hover {
+  text-decoration: underline;
+}
+
+.info-bar a:hover i {
+  color: var(--quarto-accent, #007bff);
+  transform: translateY(-1px);
+}
+
+
+/* === Info bar link color harmonized with section heading === */
+
+.info-bar i {
+  color: var(--quarto-accent, #2e6f9e);
+}
+
+/* Responsive stacking */
+@media (max-width: 600px) {
+  .info-bar {
+    flex-direction: column;
+    justify-content: center;
+  }
+}
+
+.connect-columns {
+  display: flex;
+  align-items: center;
+}
+
+.info-bar a {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4em;
+  color: #2e6f9e; /* darker base */
+  text-decoration: none;
+  transition: color 0.25s ease, transform 0.25s ease;
+}
+
+.info-bar a:hover {
+  color: #2c6edf; /* bright blue hover */
+  transform: translateY(-1px);
+  text-decoration: none;
+}
+
+.info-bar i {
+  font-size: 1em;
+  line-height: 1;
+}
+
+
+.info-bar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 1.2em;
+  margin: 0.5em 0 0.1em 0;
+  width: calc(100% + 5rem); /* cancel both left + right 1.5rem paddings */
+  margin-left: -2.8rem;     /* align with photo edge */
+  max-width: none;
+}
+
+
+
+.quarto-figure + .info-bar {
+  margin-left: 0;
+}
+

@@ -1,0 +1,11 @@
+![](images/cafecito-pic.png){.float-left width="200px"} 
+
+**Hello, and welcome.** 
+
+
+::: {.info-bar}
+- **Connect:**
+- [<i class="fa-solid fa-at"></i> Email](mailto:matt@mat.phd)
+- [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/mt-digital/)
+- [<i class="fa-brands fa-github"></i> GitHub](https://github.com/mt-digital)
+:::
