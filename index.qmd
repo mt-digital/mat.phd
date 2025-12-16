@@ -16,3 +16,8 @@ vendors so good strategy survives contact with reality.
 
 This site outlines my work in applied decision support, research, and education,
 and connects to [SubtleTea Solutions](SubtleTeaSolutions.qmd), where I develop and deliver related products and services. My work brings research-grade rigor to real decision environments.
+
+<hr class="hero-divider">
+
+I enjoy correspondence about research, teaching, business
+opportunities, or anything else: [matt@mat.phd](mailto:matt@mat.phd).
