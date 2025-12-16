@@ -1,1 +1,1 @@
-Sitemap: https://mt-digital.github.io/mat.phd/sitemap.xml
+Sitemap: https://mat.phd/sitemap.xml
