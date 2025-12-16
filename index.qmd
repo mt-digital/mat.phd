@@ -1,11 +1,18 @@
-![](images/cafecito-pic.png){.float-left width="200px"} 
+### Reducing uncertainty in high-stakes decisions
 
-**Hello, and welcome.** 
+![](images/cafecito-pic.png){.float-left width="170px"} 
+
+**I help organizations reduce uncertainty** when designing
+campaigns and programs that aim to shape behavior and beliefs. I work in
+partnership with clients who know how risky it feels to commit limited resources
+to high-stakes outreach, building confidence by testing and comparing strategies
+through scientific modeling before spending a dime. Drawing on broad
+computational experience, I also support execution and coordinate with technical
+vendors so good strategy survives contact with reality.
 
 
-::: {.info-bar}
-- **Connect:**
-- [<i class="fa-solid fa-at"></i> Email](mailto:matt@mat.phd)
-- [<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/mt-digital/)
-- [<i class="fa-brands fa-github"></i> GitHub](https://github.com/mt-digital)
-:::
+<hr class="hero-divider">
+
+
+This site outlines my work in applied decision support, research, and education,
+and connects to [SubtleTea Solutions](SubtleTeaSolutions.qmd), where I develop and deliver related products and services. My work brings research-grade rigor to real decision environments.
