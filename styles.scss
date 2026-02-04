@@ -11,7 +11,7 @@ $color-primary: #666;       // Very dark text/default color
 $color-oak: #B8A388;
 $color-hero: $color-oak; // Bright Red for high-alert/logo
 $color-bg-light: #fff;         // White body background
-$color-bg-panel: #2a2a2a;      // Light gray panel background
+$color-bg-panel: #1a1a1a;      // Light gray panel background
 $color-support: $color-bg-panel;       // Hot Pink for support accent
 // $color-bg-nav: #444;           // Dark Gray navigation background
 $border-radius: 6px;
@@ -59,13 +59,18 @@ body {
   margin-top: 1.5em !important;
   line-height: 1.4 !important;
   letter-spacing: 0.02em;
-  font-size: 18px !important;
+  font-size: 17px;
   color: $color-primary;
   background-color: $color-bg-light;
-  font-weight: 200 !important;
+  font-weight: 300 !important;
   text-align: justify;
   hyphens: auto;
   letter-spacing: 0.025em !important;
+  a {
+    font-weight: 300;
+    font-size: 17px;
+    text-decoration: none;
+  }
 }
 
 

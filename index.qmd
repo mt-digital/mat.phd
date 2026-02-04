@@ -1,10 +1,14 @@
-### Social science research and communication for real-world decisions
+---
+# pagetitle: "Matthew A. Turner, PhD"
+title-block: false
+---
+### Social science research, education, and communication
 
 
 ![](images/cafecito-pic.png){.float-left width="185px"} 
 
-**I am an independent researcher and educator developing communication and
-computational tools for sustainable, democratic, and profitable social
+**I am a researcher, educator, and engineer developing technical and
+conceptual tools for sustainable, democratic, and profitable social
 organization.** 
 
 My company, [SubtleTea Solutions](SubtleTeaSolutions.qmd), 
@@ -19,7 +23,7 @@ and consolidating epidemiology and social science approaches.
 
 Please see my Substack publication, [The Social Science Intelligence
 Report](https://ssir.substack.com) for my hottest new thinking in the form of
-essays, articles, and sometimes videos. I also 
+essays, articles, and sometimes videos. 
 
 My [CV](turner_cv.pdf) and [LinkedIn](https://www.linkedin.com/in/mt-digital/)
 have summaries of my research articles, tutorials, and other research products

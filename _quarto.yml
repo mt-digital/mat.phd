@@ -1,8 +1,13 @@
 project:
+
   type: website
 
 website:
+
   title: "Matthew A. Turner, PhD"
+
+  favicon: favicon.jpg
+
   navbar:
     left: 
       - text: "<i title='Email' class='fa-solid fa-envelope'></i>"
@@ -13,17 +18,19 @@ website:
         href: "https://github.com/mt-digital"
       - text: "<i title='ORCiD' class='fa-brands fa-orcid'></i>"
         href: "https://orcid.org/0000-0001-7421-4552"
+      - text: "<i title='YouTube' class='fa-brands fa-youtube'></i>"
+        href: "https://www.youtube.com/@SubtleTeaNetwork"
       - text: CV
         href: turner_cv.pdf
+
     right:
       - text: SubtleTea Solutions
         href: SubtleTeaSolutions.qmd
          
     pinned: true
+
 format:
   html:
     theme: styles.scss
     toc: false
-
-
 
