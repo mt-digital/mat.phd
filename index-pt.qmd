@@ -1,6 +1,6 @@
-### Pesquisa e comunicação em ciência social para decisões no mundo real
+### Pesquisa em ciência social para decisões no mundo real
 
-![](images/cafecito-pic.png){.float-left width="170px"} 
+![](images/cafecito-pic.png){.float-left width="185px"} 
 
 **Sou pesquisador e educador independente, desenvolvendo ferramentas de
 comunicação e computação para a organização social sustentável, democrática e
@@ -29,14 +29,15 @@ desenvolvi este site e o site do Projeto Dourados,
 [https://projeto-dourados.org](https://projeto-dourados.org).
 
 <hr class="hero-divider">
-
+<br>
 Para discutir convites para palestras, tutoriais internos, desenvolvimento de
 software sob medida, encomenda de materiais educacionais ou análises, ou outras
 consultas profissionais, entre em contato diretamente pelo e-mail
 [matt@mat.phd](mailto:matt@mat.phd).
 
+<hr class="hero-divider">
 
 <div style="text-align: center;">
-  <a href="SubtleTeaSolutions.qmd">Available in English</a>
+  <a href="index.qmd">Available in English</a>
 </div>
 

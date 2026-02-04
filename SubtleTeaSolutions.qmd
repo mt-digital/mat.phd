@@ -1,7 +1,10 @@
-# SubtleTea Solutions
+---
+title: SubtleTea Solutions
+---
 
-**SubtleTea Solutions** is a boutique consultancy helping organizations design communication, coordination,
-and change strategies using social science and technology.
+**SubtleTea Solutions** is a boutique consultancy helping organizations design
+communication, coordination, and change strategies using social science and
+technology.
 
 ### Communication and Social Science for High-Stakes Decisions {#sec-subtletea-subtitle}
 
@@ -18,7 +21,6 @@ Solutions uses this knowledge to eliminate fragile messaging upfront. When
 testing is useful, it is done deliberately, to refine already-stable
 communication rather than to discover fundamentals.
 
-
 ## Communication
 
 SubtleTea **Communication** supports organizations in developing messages that
@@ -26,13 +28,12 @@ remain effective across audiences and resilient to misinterpretation.
 
 Engagements typically involve:
 
-- diagnosing how existing language lands with audiences,
-- sharpening narratives and metaphors to promote organizational goals
-- tuning high-stakes, subtle communication where failure would be costly.
+- diagnosing how existing language lands with different audiences,
+- sharpening narratives, metaphors, and framing to support organizational goals,
+- tuning high-stakes or subtle communication where failure would be costly.
 
-This work emphasizes structural clarity based on social and cognitive science principles. Testing,
-when appropriate, is principled and targeted.
-
+This work emphasizes structural clarity grounded in social and cognitive science
+principles. Testing, when appropriate, is principled and targeted.
 
 ## Research
 
@@ -41,13 +42,11 @@ backbone for SubtleTea Solutions work. This includes longer-horizon research,
 internal tooling, and selective collaborations at the intersection of social
 science, technology, and sustainability.
 
-
 ## Intelligence & Education
 
 SubtleTea **Intelligence** and **Education** offerings translate research into
 decision support, custom analyses, and instruction that help organizations build
 their own strategic capacity.
-
 
 ## Engagements
 
@@ -55,13 +54,62 @@ SubtleTea Solutions works on a limited number of high-trust engagements at a
 time. Pricing reflects the strategic, reputational, and organizational stakes of
 the work.
 
-## Communication & Social Strategy
+### Communication & Social Strategy
 
 **Communication and Social Strategy Report**
-A ~2,000-word strategic analysis of messaging, audience structure
+
+A ~2,000-word strategic analysis of messaging, audience structure, and
+communication risk, grounded in established social science. Designed to identify
+where language may polarize, misfire, or fail to travel—and how to correct it
+*before* deployment.
+
+From **\$15,000**
+
+**Website & Public Communication Strategy**
+
+- Foundational website: from **\$15,000** for three sections (e.g. Home, About, Team)
+- Additional sections: **\$5,000** each
+- Custom analytical figures or diagrams: **\$2,000** per figure
+
+### Social Intelligence & Forensics
+
+**Social Forensics Report** 
+
+An analytical assessment of observed social behavior to clarify underlying
+motives, network dynamics, coordination failures, or sources of conflict. This
+work is often used to understand why an organization, campaign, or community is
+experiencing unexpected resistance or fragmentation.
+
+~2,000-word report from **\$15,000**
+
+### Ongoing Advisory
+
+**Monthly Advisory Retainer**
+
+- Strategic review and updates to communication materials
+- Ongoing consultation on messaging, framing, and audience dynamics
+- Includes up to **four hours** of one-on-one consulting per month
+
+**\$1,000 / month**
+
+## Custom Tools & Software
+
+For some engagements, custom analytical or computational tools are the most
+effective way to support decision-making. SubtleTea Solutions develops bespoke
+software selectively, when it materially improves clarity or reduces risk.
+
+Scope and pricing by consultation.
 
 <hr class="hero-divider">
+<br>
+<div style="text-align: center;">
+Academic and non-profit discounts are available. Please enquire.
+</div>
+
+<hr class="hero-divider">
+
 
 <div style="text-align: center;">
   <a href="SubtleTeaSolutions-pt.qmd">Disponível em português</a>
 </div>
+

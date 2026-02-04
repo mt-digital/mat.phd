@@ -1,9 +1,9 @@
 # SubtleTea Solutions
 
-## Comunicação e ciência social para decisões de alto risco {#sec-subtletea-subtitle}
-
 A **SubtleTea Solutions** ajuda organizações a projetar estratégias de
 comunicação, coordenação e mudança com base em ciência social.
+
+## Comunicação e ciência social para decisões de alto risco {#sec-subtletea-subtitle}
 
 Atuamos em contextos nos quais falhas de comunicação são custosas e
 tentativa-e-erro é lenta demais: campanhas de marketing e influência,
@@ -122,16 +122,16 @@ de colaboração internacional.
 Escopo, formato e valores definidos por consulta.
 
 
----
+<hr class="hero-divider">
+<br>
 
-Descontos para instituições acadêmicas e organizações sem fins lucrativos
-estão disponíveis mediante consulta.
-
-Serviços disponíveis em inglês e português.
-
+<div style="text-align: center;">
+  Descontos para instituições acadêmicas e organizações sem fins lucrativos
+  estão disponíveis mediante consulta.
+</div>
 
 <hr class="hero-divider">
 
 <div style="text-align: center;">
-  <a href="SubtleTeaSolutions-pt.qmd">Disponível em português</a>
+  <a href="SubtleTeaSolutions.qmd">Disponível em inglês</a>
 </div>

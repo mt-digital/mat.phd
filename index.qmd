@@ -1,7 +1,7 @@
 ### Social science research and communication for real-world decisions
 
 
-![](images/cafecito-pic.png){.float-left width="170px"} 
+![](images/cafecito-pic.png){.float-left width="185px"} 
 
 **I am an independent researcher and educator developing communication and
 computational tools for sustainable, democratic, and profitable social
@@ -9,8 +9,8 @@ organization.**
 
 My company, [SubtleTea Solutions](SubtleTeaSolutions.qmd), 
 helps clients and partners hone their
-communication strategies for marketing and influence campaigns by
-using social and cognitive science models of social behavior. 
+communication strategies for marketing and influence campaigns
+using social and cognitive science. 
 
 In addition to SubtleTea Solutions, I serve as co-Director of [Projeto
 Dourados](https://projeto-dourados.org), a program to promote Indigenous health in the
@@ -29,7 +29,7 @@ Projeto Dourados website, [https://projeto-dourados.org](https://projeto-dourado
 
 
 <hr class="hero-divider">
-
+<br>
 Please [contact me directly](mailto:matt@mat.phd) to
 discuss speaking engagements or in-house tutorials, development of custom
 software, to commission eductaional materials or analyses, or other business
