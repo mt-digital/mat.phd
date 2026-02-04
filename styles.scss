@@ -286,15 +286,24 @@ $icon-size: 0.775rem;
 }
 
 
+
 @media (max-width: 765px) {
+  .navbar-brand-container {
+    position: center;
+    left: 50%;
+  }
+  
   h3 {
-    font-size: 18px;
+    font-size: 17px;
     letter-spacing: 0.0em;
   }
 
   p {
     font-size: 15px;
     text-align: justify;
+    a {
+      font-size: 15px;
+    }
   }
 }
 
@@ -307,10 +316,13 @@ $icon-size: 0.775rem;
     hyphenate-limit-lines: 2;
     font-size: 14.0px;
     font-weight: 200;
+    a {
+      font-size: 14px;
+    }
   }
 
   h3 {
-    font-size: 17px !important;
+    font-size: 16px !important;
     font-weight: 500 !important;
     color: #222 !important;
     letter-spacing: -0.01em;
