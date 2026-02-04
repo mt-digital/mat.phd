@@ -1,23 +1,43 @@
-### Reducing uncertainty in high-stakes decisions
+### Social science research and communication for real-world decisions
+
 
 ![](images/cafecito-pic.png){.float-left width="170px"} 
 
-**I help organizations reduce uncertainty** when designing
-campaigns and programs that aim to shape behavior and beliefs. I work in
-partnership with clients who know how risky it feels to commit limited resources
-to high-stakes outreach, building confidence by testing and comparing strategies
-through scientific modeling before spending a dime. Drawing on broad
-computational experience, I also support execution and coordinate with technical
-vendors so good strategy survives contact with reality.
+**I am an independent researcher and educator developing communication and
+computational tools for sustainable, democratic, and profitable social
+organization.** 
+
+My company, [SubtleTea Solutions](SubtleTeaSolutions.qmd), 
+helps clients and partners hone their
+communication strategies for marketing and influence campaigns by
+using social and cognitive science models of social behavior. 
+
+In addition to SubtleTea Solutions, I serve as co-Director of [Projeto
+Dourados](https://projeto-dourados.org), a program to promote Indigenous health in the
+Americas by bringing together researchers from Brazil and the United States
+and consolidating epidemiology and social science approaches.
+
+Please see my Substack publication, [The Social Science Intelligence
+Report](https://ssir.substack.com) for my hottest new thinking in the form of
+essays, articles, and sometimes videos. I also 
+
+My [CV](turner_cv.pdf) and [LinkedIn](https://www.linkedin.com/in/mt-digital/)
+have summaries of my research articles, tutorials, and other research products
+from my academic career. I post and discuss various topics on LinkedIn as well. 
+For an example of my web development work, I developed this website and the 
+Projeto Dourados website, [https://projeto-dourados.org](https://projeto-dourados.org).
 
 
 <hr class="hero-divider">
 
-
-This site outlines my work in applied decision support, research, and education,
-and connects to [SubtleTea Solutions](SubtleTeaSolutions.qmd), where I develop and deliver related products and services. My work brings research-grade rigor to real decision environments.
+Please [contact me directly](mailto:matt@mat.phd) to
+discuss speaking engagements or in-house tutorials, development of custom
+software, to commission eductaional materials or analyses, or other business
+inquiries.
 
 <hr class="hero-divider">
 
-I enjoy correspondence about research, teaching, business
-opportunities, or anything else: [matt@mat.phd](mailto:matt@mat.phd).
+<div style="text-align: center;">
+  <a href="index-pt.qmd">Disponível em português</a>
+</div>
+

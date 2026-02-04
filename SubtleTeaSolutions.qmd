@@ -1,52 +1,67 @@
----
-title: SubtleTea Solutions, LLC
----
+# SubtleTea Solutions
 
-### Actionable Intelligence for Future-Shapers {#sec-subtletea-subtitle}
+**SubtleTea Solutions** is a boutique consultancy helping organizations design communication, coordination,
+and change strategies using social science and technology.
 
-<!-- The complexity of contemporary culture creates real uncertainty for
-organizations trying to influence behavior and beliefs. A growing ecosystem of
-computational tools and social science research can make it difficult to
-determine which strategies are likely to work—and which are likely to waste
-time, money, or credibility. SubtleTea works with organizations that have
-something valuable to offer, but are uncertain which outreach or marketing
-strategies will most effectively communicate that value. -->
+### Communication and Social Science for High-Stakes Decisions {#sec-subtletea-subtitle}
 
-I founded **SubtleTea Solutions, LLC** to help organizations—large and
-small—plan social change campaigns with greater clarity and confidence,
-especially when the costs of getting it wrong are high. We support decisions
-about how messages, products, and practices spread through social networks, both
-in person and online. When useful, we also help our clients choose and apply the right computational tools for the problem at hand. Sometimes that means advanced modeling or AI; other times, carefully structured analysis in Excel is far more effective.
+We work where miscommunication is expensive and trial-and-error is too slow:
+marketing and influence campaigns, organizational change, and public-facing
+initiatives. Our focus is on how language and framing interact with real social
+systems—how messages spread, how they are interpreted across groups, and how
+they can unintentionally force polarization.
 
-SubtleTea Solutions provides multi-tiered services to develop **social science
-intelligence** for organizations. Engagements begin with a focused consultation to 
-understand client needs and aspirations. 
-Our ideal clients are those we can grow with: we aim to deliver immediate
-insight while creating the conditions for strategies to evolve through
-continuous feedback about what works, what doesn’t, and why.
+Much of what makes communication fail is already known. Social science has
+identified how language activates identities, shapes interpretation, and hardens
+positions—even without intent, and especially when used deliberately. SubtleTea
+Solutions uses this knowledge to eliminate fragile messaging upfront. When
+testing is useful, it is done deliberately, to refine already-stable
+communication rather than to discover fundamentals.
+
+
+## Communication
+
+SubtleTea **Communication** supports organizations in developing messages that
+remain effective across audiences and resilient to misinterpretation.
+
+Engagements typically involve:
+
+- diagnosing how existing language lands with audiences,
+- sharpening narratives and metaphors to promote organizational goals
+- tuning high-stakes, subtle communication where failure would be costly.
+
+This work emphasizes structural clarity based on social and cognitive science principles. Testing,
+when appropriate, is principled and targeted.
+
 
 ## Research
 
-SubtleTea **Research** provides the logical, mathematical, computational, and conceptual backbone for all SubtleTea Solutions products. This work supports open-source projects, internal tool development, and longer-horizon research that informs applied strategy.
+SubtleTea **Research** provides the conceptual, analytical, and methodological
+backbone for SubtleTea Solutions work. This includes longer-horizon research,
+internal tooling, and selective collaborations at the intersection of social
+science, technology, and sustainability.
 
-SubtleTea Research also engages selectively in developing new, research-driven
-applications of social science to business, political, and sustainability
-challenges. If you are exploring a research product or idea and want to assess
-whether it may be a good fit for collaboration, please reach out at
-[matt@mat.phd](mailto:matt@mat.phd).
-<!--[research@subtle-tea.solutions](mailto:research@subtle-tea.solutions).-->
 
-## Intelligence
+## Intelligence & Education
 
-SubtleTea **Intelligence** products provide actionable insight into social
-change by applying our award-winning research in social and cognitive science to
-real-world decisions about how best to allocate resources in marketing, educational, or
-other intervention campaigns—*before* those resources are committed. The
-emphasis is on reducing uncertainty and making the range of possible outcomes
-explicit, eliminating guesswork.
+SubtleTea **Intelligence** and **Education** offerings translate research into
+decision support, custom analyses, and instruction that help organizations build
+their own strategic capacity.
 
-Product details and pricing coming soon.
 
-## Education
+## Engagements
 
-SubtleTea **Education** supports individuals and teams in developing their own customized intelligence capabilities. This includes tailored course design, instruction, and workshops grounded in the same analytical approaches used in our applied work. 
+SubtleTea Solutions works on a limited number of high-trust engagements at a
+time. Pricing reflects the strategic, reputational, and organizational stakes of
+the work.
+
+## Communication & Social Strategy
+
+**Communication and Social Strategy Report**
+A ~2,000-word strategic analysis of messaging, audience structure
+
+<hr class="hero-divider">
+
+<div style="text-align: center;">
+  <a href="SubtleTeaSolutions-pt.qmd">Disponível em português</a>
+</div>

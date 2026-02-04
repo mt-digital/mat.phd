@@ -1,0 +1,42 @@
+### Pesquisa e comunicação em ciência social para decisões no mundo real
+
+![](images/cafecito-pic.png){.float-left width="170px"} 
+
+**Sou pesquisador e educador independente, desenvolvendo ferramentas de
+comunicação e computação para a organização social sustentável, democrática e
+economicamente viável.**
+
+Minha empresa, [SubtleTea Solutions](SubtleTeaSolutions.qmd),
+apoia clientes e parceiros no aprimoramento de estratégias de comunicação para
+campanhas de marketing e influência, com base em conhecimentos consolidados da
+ciência social e cognitiva sobre comportamento social.
+
+Além da SubtleTea Solutions, atuo como co-diretor do
+[Projeto Dourados](https://projeto-dourados.org), uma iniciativa voltada à
+promoção da saúde indígena nas Américas, que reúne pesquisadores do Brasil e dos
+Estados Unidos e integra abordagens de epidemiologia e ciência social.
+
+Para acompanhar meus textos e análises recentes, consulte minha publicação no
+Substack, [The Social Science Intelligence Report](https://ssir.substack.com),
+onde publico ensaios, artigos e, ocasionalmente, vídeos.
+
+Meu [CV](turner_cv.pdf) e meu
+[LinkedIn](https://www.linkedin.com/in/mt-digital/) apresentam um panorama de
+meus artigos de pesquisa, tutoriais e outros produtos desenvolvidos ao longo da
+minha carreira acadêmica. Também publico e discuto diversos temas no LinkedIn.
+Como exemplo de meu trabalho em desenvolvimento web e comunicação científica,
+desenvolvi este site e o site do Projeto Dourados,
+[https://projeto-dourados.org](https://projeto-dourados.org).
+
+<hr class="hero-divider">
+
+Para discutir convites para palestras, tutoriais internos, desenvolvimento de
+software sob medida, encomenda de materiais educacionais ou análises, ou outras
+consultas profissionais, entre em contato diretamente pelo e-mail
+[matt@mat.phd](mailto:matt@mat.phd).
+
+
+<div style="text-align: center;">
+  <a href="SubtleTeaSolutions.qmd">Available in English</a>
+</div>
+

@@ -4,7 +4,7 @@ project:
 website:
   title: "Matthew A. Turner, PhD"
   navbar:
-    left:
+    left: 
       - text: "<i title='Email' class='fa-solid fa-envelope'></i>"
         href: "mailto:matt@mat.phd"
       - text: "<i title='LinkedIn' class='fa-brands fa-linkedin'></i>"
@@ -13,12 +13,10 @@ website:
         href: "https://github.com/mt-digital"
       - text: "<i title='ORCiD' class='fa-brands fa-orcid'></i>"
         href: "https://orcid.org/0000-0001-7421-4552"
-      - text: "<i title='YouTube' class='fa-brands fa-youtube'></i>"
-        href: https://www.youtube.com/@mat-phd-ss4s
-
+      - text: CV
+        href: turner_cv.pdf
     right:
-      - text: |
-          <span id="nav-subtletea">SubtleTea Solutions</span>
+      - text: SubtleTea Solutions
         href: SubtleTeaSolutions.qmd
          
     pinned: true
