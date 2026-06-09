@@ -1,47 +1,99 @@
----
-# pagetitle: "Matthew A. Turner, PhD"
-title-block: false
----
-### Social science research, education, and communication
 
+<h1 id=name>MAT, PhD Enterprises</h1>
 
-![](images/cafecito-pic.png){.float-left width="185px"} 
+<h2 id=tagline>Human-led democratic systems. Sustainable capacity.</h2>
 
-**I am a researcher, educator, and engineer developing technical and
-conceptual tools for sustainable, democratic, and profitable social
-organization.** 
-
-My company, [SubtleTea Solutions](SubtleTeaSolutions.qmd), 
-helps clients and partners hone their
-communication strategies for marketing and influence campaigns
-using social and cognitive science. 
-
-In addition to SubtleTea Solutions, I serve as co-Director of [Projeto
-Dourados](https://projeto-dourados.org), a program to promote Indigenous health in the
-Americas by bringing together researchers from Brazil and the United States
-and consolidating epidemiology and social science approaches.
-
-Please see my Substack publication, [The Social Science Intelligence
-Report](https://ssir.substack.com) for my hottest new thinking in the form of
-essays, articles, and sometimes videos. 
-
-My [CV](turner_cv.pdf) and [LinkedIn](https://www.linkedin.com/in/mt-digital/)
-have summaries of my research articles, tutorials, and other research products
-from my academic career. I post and discuss various topics on LinkedIn as well. 
-For an example of my web development work, I developed this website and the 
-Projeto Dourados website, [https://projeto-dourados.org](https://projeto-dourados.org).
-
-
-<hr class="hero-divider">
 <br>
-Please [contact me directly](mailto:matt@mat.phd) to
-discuss speaking engagements or in-house tutorials, development of custom
-software, to commission eductaional materials or analyses, or other business
-inquiries.
+
+
+MAT, PhD Enterprises build sustainable capacity through...
+
+1. Translational research,
+1. Multicultural and interdisciplinary education, and
+3. Continuous adaptation to improve real-world outcomes.
+
 
 <hr class="hero-divider">
 
-<div style="text-align: center;">
-  <a href="index-pt.qmd">Disponível em português</a>
-</div>
 
+
+### Generation of Participation in Democracy
+
+My nonprofit, the [Generation of Participation in
+Democracy - Américas](https://gpdamericas.org), builds capacity among
+Indigenous and other marginalized peoples in the Américas and beyond. We develop
+educational programs to prepare students of the Américas for local and
+international capacity building.
+
+Our translational research programs deploy custom tools to
+make computing more accessible and powerful for public policy planning based
+on rigorous principles of epidemiology and social science.
+
+
+#### Instituto Dourados
+
+
+
+_[Instituto Dourados](https://institutodourados.org)_ (i.e., the "Golden
+Institute") is our first _Flagship Institute_. At Instituto Dourados we organize
+researchers and students in an international exchnage program to boost autonomy
+and effectiveness for Indigenous public health at the Dourados Indigneous
+Reserve (_Reserva Indigena de Dourados_) in Dourados, Mato Grosso do Sul,
+Brazil.
+
+<!-- ![](images/instituto-logo.jpg) -->
+<img src="images/instituto-logo.jpg"/>
+
+
+
+### SubtleTea Solutions
+
+[SubtleTea Solutions, LLC](SubtleTeaSolutions.qmd), is out to prove the claim
+that sustainability can be a strategic advantage for businesses. Companies want
+the most cost-effective solution, not the solution getting boosted the most on
+social media.
+
+<img
+  src="images/circle-logo-teacup-nowordmark.png"
+  class="float-center"
+  style="width: 200px;"
+/>
+
+<hr class="hero-divider">
+
+Please [contact me](mailto:matt@subtleteasolutions.com) for custom software, hardware,
+and organizational solutions backed by science. Investors and philanthropists
+are invited and philanthropy opportunities. I created this website,
+[https://mat.phd](https://mat.phd), and the others linked above.
+
+- **My software portfolio** is represented by my GitHub profile:
+  [mt-digital](https://github.com/mt-digital).
+- **Follow me on [LinkedIn](https://linkedin.com/in/mt-digital) to stay
+  updated about my work**. It really does support our work if you follow me, my
+  organizations, and my colleagues.
+- **Instagram:** for first looks at new Reels/Shorts and personal updates mixed in with
+  professional ones, please follow me and share content on Instagram,
+  [@matthewadamturnerphd](https://www.instagram.com/matthewadamturnerphd)
+
+
+<br>
+
+
+![](cafecito-pic.png){.float-left height=225px}
+
+<p style="font-size: 18px">
+<em>In solidarity and service,</em>
+</p>
+
+![](signature.jpg){width=200px}
+
+<p style="font-size: 18px">
+<strong>Matt Turner, PhD</strong>
+</p>
+
+
+Founder & CEO
+
+GPD Américas & SubtleTea Solutions
+
+<a href="mailto:matt@mat.phd">Contact</a>

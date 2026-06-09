@@ -2,51 +2,31 @@
 title: SubtleTea Solutions
 ---
 
-**SubtleTea Solutions** is a boutique consultancy helping organizations design
-communication, coordination, and change strategies using social science and
+
+![](images/circle-logo-teacup-nowordmark.png){.float-left height=225px}
+
+<p style="font-size: 14px">
+**SubtleTea Solutions** is helps organizations coordinate sustainably:
+communication, and change strategies using social science and
 technology.
+</p>
 
-### Communication and Social Science for High-Stakes Decisions {#sec-subtletea-subtitle}
 
-We work where miscommunication is expensive and trial-and-error is too slow:
-marketing and influence campaigns, organizational change, and public-facing
-initiatives. Our focus is on how language and framing interact with real social
-systems—how messages spread, how they are interpreted across groups, and how
-they can unintentionally force polarization.
-
-Much of what makes communication fail is already known. Social science has
-identified how language activates identities, shapes interpretation, and hardens
-positions—even without intent, and especially when used deliberately. SubtleTea
-Solutions uses this knowledge to eliminate fragile messaging upfront. When
-testing is useful, it is done deliberately, to refine already-stable
-communication rather than to discover fundamentals.
-
-## Communication
-
-SubtleTea **Communication** supports organizations in developing messages that
-remain effective across audiences and resilient to misinterpretation.
-
-Engagements typically involve:
-
-- diagnosing how existing language lands with different audiences,
-- sharpening narratives, metaphors, and framing to support organizational goals,
-- tuning high-stakes or subtle communication where failure would be costly.
-
-This work emphasizes structural clarity grounded in social and cognitive science
-principles. Testing, when appropriate, is principled and targeted.
 
 ## Research
 
-SubtleTea **Research** provides the conceptual, analytical, and methodological
-backbone for SubtleTea Solutions work. This includes longer-horizon research,
-internal tooling, and selective collaborations at the intersection of social
-science, technology, and sustainability.
+SubtleTea **Research** provides the computational, conceptual,
+analytical, and methodological backbone for sustainable capacity in
+organizations. Our research translates advanced cognitive, social, and
+epidemiological science into practice.
+
 
 ## Intelligence & Education
 
 SubtleTea **Intelligence** and **Education** offerings translate research into
-decision support, custom analyses, and instruction that help organizations build
-their own strategic capacity.
+decision support, custom analyses, and instruction that help organizations
+build their own strategic capacity.
+
 
 ## Engagements
 
@@ -54,7 +34,19 @@ SubtleTea Solutions works on a limited number of high-trust engagements at a
 time. Pricing reflects the strategic, reputational, and organizational stakes of
 the work.
 
-### Communication & Social Strategy
+
+### Coaching and Advice
+
+**Monthly Advisory Retainer**
+
+- Strategic review and updates to communication materials
+- Ongoing consultation on messaging, framing, and audience dynamics
+- Includes up to **four hours** of one-on-one consulting per month
+
+**\$1,000 / month**
+
+
+### Social Strategy: Communication and Organization
 
 **Communication and Social Strategy Report**
 
@@ -71,9 +63,10 @@ From **\$15,000**
 - Additional sections: **\$5,000** each
 - Custom analytical figures or diagrams: **\$2,000** per figure
 
+
 ### Social Intelligence & Forensics
 
-**Social Forensics Report** 
+**Social Forensics Report**
 
 An analytical assessment of observed social behavior to clarify underlying
 motives, network dynamics, coordination failures, or sources of conflict. This
@@ -81,16 +74,6 @@ work is often used to understand why an organization, campaign, or community is
 experiencing unexpected resistance or fragmentation.
 
 ~2,000-word report from **\$15,000**
-
-### Ongoing Advisory
-
-**Monthly Advisory Retainer**
-
-- Strategic review and updates to communication materials
-- Ongoing consultation on messaging, framing, and audience dynamics
-- Includes up to **four hours** of one-on-one consulting per month
-
-**\$1,000 / month**
 
 ## Custom Tools & Software
 
@@ -106,10 +89,4 @@ Scope and pricing by consultation.
 Academic and non-profit discounts are available. Please enquire.
 </div>
 
-<hr class="hero-divider">
-
-
-<div style="text-align: center;">
-  <a href="SubtleTeaSolutions-pt.qmd">Disponível em português</a>
-</div>
 
