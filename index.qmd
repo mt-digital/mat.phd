@@ -8,7 +8,7 @@
 
 MAT, PhD Enterprises build sustainable capacity through...
 
-1. Translational research,
+1. Translational research and engineering,
 1. Multicultural and interdisciplinary education, and
 3. Continuous adaptation to improve real-world outcomes.
 
@@ -17,7 +17,13 @@ MAT, PhD Enterprises build sustainable capacity through...
 
 
 
-### Generation of Participation in Democracy
+## Generation of Participation in Democracy
+
+<img
+  src="images/gpd-logo-square-github.jpeg"
+  class="float-left"
+  style="width: 150px;"
+/>
 
 My nonprofit, the [Generation of Participation in
 Democracy - Américas](https://gpdamericas.org), builds capacity among
@@ -29,10 +35,27 @@ Our translational research programs deploy custom tools to
 make computing more accessible and powerful for public policy planning based
 on rigorous principles of epidemiology and social science.
 
+I publish a general public educational newsletter on Substack called the _Social Science
+Intelligence Report_ [ssir.substack.com](https://ssir.substack.com). In the past
+few months I explain [how the Medici used network science to dominate Florence
+starting about 1400](https://ssir.substack.com/p/how-the-medici-solved-power-struggles).
+In another article I explain [Why Today's AI Systems Can't Be Conscious](https://open.substack.com/pub/ssir/p/why-todays-ai-systems-cant-be-conscious?utm_campaign=post-expanded-share&utm_medium=web).
 
-#### Instituto Dourados
+
+I am preparing a book that frames the combined work of several new journal
+articles based on a new consolidated approach to quantitative social science.
+modeled on  It is just as well, because it allows me to frame quantitative
+social science in terms of current events, reacting to history rapidly being
+made. A portion of book sales (tbd) will fund GPD operations.
 
 
+### Instituto Dourados
+
+<img
+  src="images/instituto-logo.jpg"
+  class="float-left"
+  style="width: 150px;"
+/>
 
 _[Instituto Dourados](https://institutodourados.org)_ (i.e., the "Golden
 Institute") is our first _Flagship Institute_. At Instituto Dourados we organize
@@ -41,22 +64,32 @@ and effectiveness for Indigenous public health at the Dourados Indigneous
 Reserve (_Reserva Indigena de Dourados_) in Dourados, Mato Grosso do Sul,
 Brazil.
 
-<!-- ![](images/instituto-logo.jpg) -->
-<img src="images/instituto-logo.jpg"/>
+
+<hr class="hero-divider">
 
 
-
-### SubtleTea Solutions
+## SubtleTea Solutions
 
 [SubtleTea Solutions, LLC](SubtleTeaSolutions.qmd), is out to prove the claim
 that sustainability can be a strategic advantage for businesses. Companies want
 the most cost-effective solution, not the solution getting boosted the most on
 social media.
 
+When efficient hardware and smart software combine, the whole is greater than
+the mere sum of its parts. We design advanced software available on desktop or
+on the web that enables scientific inference and private AI-enhanced assistance
+accelerated by ARM processor architectures, distributed over 1024 GPU cores
+for example, as the NVIDIA Jetson Orin Nano series of their Tegra
+system-on-a-chip (SoC).
+
+Fun fact: the Nintendo Switch uses a variant of the
+same Tegra "chip" (basically  meaning the circuitboard with the processors).
+
+
 <img
   src="images/circle-logo-teacup-nowordmark.png"
   class="float-center"
-  style="width: 200px;"
+  style="width: 120px;"
 />
 
 <hr class="hero-divider">
