@@ -37,17 +37,9 @@ educational programs to prepare students of the Américas for local and
 international capacity building, including the use of local, private,
 sustainable AI for solving problems _better_, not _faster_ or _easier_.
 
-I publish a general public educational newsletter on Substack called the
-_Social Science Intelligence Report_:
-[ssir.substack.com](https://ssir.substack.com).
-
-In the past few months I have explained [how the Italian political and banking
-clan, the Medici, used network science to dominate Florence starting
-about 1400](https://ssir.substack.com/p/how-the-medici-solved-power-struggles),
-and extract lessons for us to apply to today's coalition buidling.
-
-In another article I explain [Why Today's AI Systems Can't Be
-Conscious](https://open.substack.com/pub/ssir/p/why-todays-ai-systems-cant-be-conscious?utm_campaign=post-expanded-share&utm_medium=web).
+The GPD is a California Public Benefit Corporation in compliance with California
+Department of Justice registration. We are awaiting the GPD’s 501(c)(3)
+tax exempt status determination; **IRS EIN: 41-4992916**.
 
 
 ### Instituto Dourados
@@ -65,11 +57,11 @@ public health at Instituto Dourados), while the GPD manages the business
 processes that fund Flagship Institute activities, among other infrastructure
 services.
 
-At Instituto Dourados we organize
-researchers and students in an international exchnage program to boost autonomy
-and effectiveness for Indigenous public health at the Dourados Indigneous
-Reserve (_Reserva Indigena de Dourados_) in Dourados, Mato Grosso do Sul,
-Brazil.
+At Instituto Dourados we organize researchers and students in an international
+exchange program to boost Indigenous autonomy managing their own public
+health policy at the Dourados Indigenous Reserve (_Reserva Indígena de Dourados_) in
+Dourados, Mato Grosso do Sul, Brazil.
+
 
 
 ## SubtleTea Solutions
@@ -79,13 +71,12 @@ Brazil.
   class="float-left"
 />
 
-[SubtleTea Solutions, LLC](https://subtleteasolutions.com), is out to prove the claim
-that sustainability can be a strategic advantage for businesses. Wise companies want
-the most cost-effective solution, not the most viral one currently promoted
-online by by Mr. Beast.
+[SubtleTea Solutions, LLC](https://subtleteasolutions.com), is out to prove
+that sustainability can be a strategic advantage for businesses. Serious
+organizations want efficient solutions
 
-We design advanced software available on desktop or
-on the web that enables scientific inference and private AI-enhanced assistance.
+We design advanced software that enables accelerated scientific inference and
+private AI powered by renewables.
 
 <hr class="hero-divider">
 
