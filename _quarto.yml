@@ -4,30 +4,25 @@ project:
 
 website:
 
-  title: "Matthew A. Turner, PhD"
+  title: "MAT, PhD"
 
-  favicon: favicon.jpg
+  favicon: images/matt-turner-headshot-cafecito.png
 
   navbar:
-    left: 
+    right:
       - text: "<i title='Email' class='fa-solid fa-envelope'></i>"
         href: "mailto:matt@mat.phd"
       - text: "<i title='LinkedIn' class='fa-brands fa-linkedin'></i>"
         href: "https://www.linkedin.com/in/mt-digital/"
       - text: "<i title='GitHub' class='fa-brands fa-github'></i>"
         href: "https://github.com/mt-digital"
-      - text: "<i title='ORCiD' class='fa-brands fa-orcid'></i>"
-        href: "https://orcid.org/0000-0001-7421-4552"
-      - text: "<i title='YouTube' class='fa-brands fa-youtube'></i>"
-        href: "https://www.youtube.com/@SubtleTeaNetwork"
+      - text: "<i title='Instagram' class='fa-brands fa-instagram'></i>"
+        href: "https://instagram.com/matthewadamturnerphd"
       - text: CV
         href: turner_cv.pdf
 
-    right:
-      - text: SubtleTea Solutions
-        href: SubtleTeaSolutions.qmd
-         
     pinned: true
+    collapse: false
 
 format:
   html:

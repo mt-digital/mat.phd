@@ -1,23 +1,25 @@
 
-<h1 id=name>MAT, PhD Enterprises</h1>
-
-<h2 id=tagline>Human-led democratic systems. Sustainable capacity.</h2>
-
-<br>
+<h1 id=name>Matthew A. Turner, PhD</h1>
 
 
-MAT, PhD Enterprises build sustainable capacity through...
+<h2 id=tagline>Sustainable Organizations Built to Last Centuries</h2>
+
+
+
+
+I build sustainable capacity through
 
 1. Translational research and engineering,
 1. Multicultural and interdisciplinary education, and
-3. Continuous adaptation to improve real-world outcomes.
+3. Quantitative social science to improve real world outcomes.
+
 
 
 <hr class="hero-divider">
 
 
 
-## Generation of Participation in Democracy
+## Generation of Participation in Democracy {style="margin-top: 2rem;"}
 
 <img
   src="images/gpd-logo-square-github.jpeg"
@@ -26,27 +28,26 @@ MAT, PhD Enterprises build sustainable capacity through...
 />
 
 My nonprofit, the [Generation of Participation in
-Democracy - Américas](https://gpdamericas.org), builds capacity among
-Indigenous and other marginalized peoples in the Américas and beyond. We develop
+Democracy - Américas](https://gpdamericas.org), contributes to ongoing efforts
+to build autonomous policy planning capacity among
+Indigenous and other marginalized peoples in the Américas and beyond.
+
+We develop
 educational programs to prepare students of the Américas for local and
-international capacity building.
+international capacity building, including the use of local, private,
+sustainable AI for solving problems _better_, not _faster_ or _easier_.
 
-Our translational research programs deploy custom tools to
-make computing more accessible and powerful for public policy planning based
-on rigorous principles of epidemiology and social science.
+I publish a general public educational newsletter on Substack called the
+_Social Science Intelligence Report_:
+[ssir.substack.com](https://ssir.substack.com).
 
-I publish a general public educational newsletter on Substack called the _Social Science
-Intelligence Report_ [ssir.substack.com](https://ssir.substack.com). In the past
-few months I explain [how the Medici used network science to dominate Florence
-starting about 1400](https://ssir.substack.com/p/how-the-medici-solved-power-struggles).
-In another article I explain [Why Today's AI Systems Can't Be Conscious](https://open.substack.com/pub/ssir/p/why-todays-ai-systems-cant-be-conscious?utm_campaign=post-expanded-share&utm_medium=web).
+In the past few months I have explained [how the Italian political and banking
+clan, the Medici, used network science to dominate Florence starting
+about 1400](https://ssir.substack.com/p/how-the-medici-solved-power-struggles),
+and extract lessons for us to apply to today's coalition buidling.
 
-
-I am preparing a book that frames the combined work of several new journal
-articles based on a new consolidated approach to quantitative social science.
-modeled on  It is just as well, because it allows me to frame quantitative
-social science in terms of current events, reacting to history rapidly being
-made. A portion of book sales (tbd) will fund GPD operations.
+In another article I explain [Why Today's AI Systems Can't Be
+Conscious](https://open.substack.com/pub/ssir/p/why-todays-ai-systems-cant-be-conscious?utm_campaign=post-expanded-share&utm_medium=web).
 
 
 ### Instituto Dourados
@@ -58,75 +59,100 @@ made. A portion of book sales (tbd) will fund GPD operations.
 />
 
 _[Instituto Dourados](https://institutodourados.org)_ (i.e., the "Golden
-Institute") is our first _Flagship Institute_. At Instituto Dourados we organize
+Institute") is the GPD's inaugural _Flagship Institute_. Flagship Institutes
+focus on specific, concrete research and public benefit activities (Indigenous
+public health at Instituto Dourados), while the GPD manages the business
+processes that fund Flagship Institute activities, among other infrastructure
+services.
+
+At Instituto Dourados we organize
 researchers and students in an international exchnage program to boost autonomy
 and effectiveness for Indigenous public health at the Dourados Indigneous
 Reserve (_Reserva Indigena de Dourados_) in Dourados, Mato Grosso do Sul,
 Brazil.
 
 
-<hr class="hero-divider">
-
-
 ## SubtleTea Solutions
-
-[SubtleTea Solutions, LLC](SubtleTeaSolutions.qmd), is out to prove the claim
-that sustainability can be a strategic advantage for businesses. Companies want
-the most cost-effective solution, not the solution getting boosted the most on
-social media.
-
-When efficient hardware and smart software combine, the whole is greater than
-the mere sum of its parts. We design advanced software available on desktop or
-on the web that enables scientific inference and private AI-enhanced assistance
-accelerated by ARM processor architectures, distributed over 1024 GPU cores
-for example, as the NVIDIA Jetson Orin Nano series of their Tegra
-system-on-a-chip (SoC).
-
-Fun fact: the Nintendo Switch uses a variant of the
-same Tegra "chip" (basically  meaning the circuitboard with the processors).
-
 
 <img
   src="images/circle-logo-teacup-nowordmark.png"
-  class="float-center"
-  style="width: 120px;"
+  class="float-left"
 />
+
+[SubtleTea Solutions, LLC](https://subtleteasolutions.com), is out to prove the claim
+that sustainability can be a strategic advantage for businesses. Wise companies want
+the most cost-effective solution, not the most viral one currently promoted
+online by by Mr. Beast.
+
+We design advanced software available on desktop or
+on the web that enables scientific inference and private AI-enhanced assistance.
 
 <hr class="hero-divider">
 
-Please [contact me](mailto:matt@subtleteasolutions.com) for custom software, hardware,
-and organizational solutions backed by science. Investors and philanthropists
-are invited and philanthropy opportunities. I created this website,
-[https://mat.phd](https://mat.phd), and the others linked above.
+**Later in 2026 we will begin selling our Sustainable Inference Box, a portable
+system for supercomputer cluster-scale capacity on your desktop, featuring:**
 
-- **My software portfolio** is represented by my GitHub profile:
-  [mt-digital](https://github.com/mt-digital).
-- **Follow me on [LinkedIn](https://linkedin.com/in/mt-digital) to stay
-  updated about my work**. It really does support our work if you follow me, my
-  organizations, and my colleagues.
-- **Instagram:** for first looks at new Reels/Shorts and personal updates mixed in with
-  professional ones, please follow me and share content on Instagram,
-  [@matthewadamturnerphd](https://www.instagram.com/matthewadamturnerphd)
+1. Local, private AI (Large Language Model - LLM - _inference_)
+2. High-performance agent-based modeling to infer theoretical model
+   implications, _hypotheses_, before gathering data
+3. Markov-chain Monte Carlo generative Bayesian inference for statistical model
+   fitting to evaluate the veracity of a hypothesis of interest
 
+The Sustainable Inference Box harnesses NVIDIA's GPU system on a chip (SoC)
+Jetson Orin Nano, pre-loaded with a suite of open source computational science
+software in a preconfigured Arch Linux ecosystem.
+
+The Sustainable Inference Box will not cost much more than one single year's
+ChatGPT Plus subscription. But it keeps your data private by default, be it
+sensitive patient data if you're a doctor, or trade secrets if you're an
+inventor or manufacturer, for example. It can be powered by solar panels and
+batteries with add-on hardware coming in 2027.
+
+We step into the territory of renewables-powered, private, and local AI that has
+been totally ceded by all major AI companies.
+
+In the near future we will also be launching online tools for planning
+educational interventions to promote adaptive behaviors or develop public health
+strategies given stylized real-world constraints.
+
+Stay tuned for updates!
+
+
+<hr class="hero-divider">
+
+
+Please [contact us via email](mailto:matt@subtleteasolutions.com) to discuss custom software, hardware,
+science-backed organizational solutions, and other custom engagements.
+
+I created this website,
+[https://mat.phd](https://mat.phd), and the others I linked to. I would be
+happy to help you create an easy-to-maintain website that tells your story that
+communicates your full value.
+
+Investors and philanthropists are invited to please [email me
+directly](mailto:matt@mat.phd) for current partnership opportunities.
 
 <br>
 
+<div style="padding-left: 8.75%; margin-top: 0.5rem;">
 
-![](cafecito-pic.png){.float-left height=225px}
+  ![](cafecito-pic.png){.float-left height=225px}
 
-<p style="font-size: 18px">
-<em>In solidarity and service,</em>
-</p>
+  <p style="font-size: 18px">
+  <em>In solidarity and service,</em>
+  </p>
 
-![](signature.jpg){width=200px}
+  ![](signature.jpg){width=200px}
 
-<p style="font-size: 18px">
-<strong>Matt Turner, PhD</strong>
-</p>
+  <p style="font-size: 18px">
+  <strong>Matt Turner, PhD</strong>
+  </p> <br>
+</div>
 
+<div style="text-align: right; margin-right: 8.75%; font-size: 0.75rem;">
+Founder & President <br>
+[GPD Américas](https://gpdamericas.org) & [SubtleTea Solutions](https://subtleteasolutions.com) <br>
+aka The [Cumulus Community](https://cumulus.community)
 
-Founder & CEO
-
-GPD Américas & SubtleTea Solutions
-
-<a href="mailto:matt@mat.phd">Contact</a>
+<a href="mailto:matt@mat.phd">Email</a>
+</div>
